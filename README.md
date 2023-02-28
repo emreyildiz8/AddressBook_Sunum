@@ -20,7 +20,6 @@ Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını a
 
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 
-Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 ![Ekran görüntüsü 2023-02-28 131348](https://user-images.githubusercontent.com/118689173/221942361-db685f4c-0c0d-4fd0-ac74-4ab84d86c9b1.png)
 ![Ekran görüntüsü 2023-02-28 131312](https://user-images.githubusercontent.com/118689173/221942380-9f762144-14b6-450e-a51a-d16c677e92c8.png)
 ![Ekran görüntüsü 2023-02-28 131416](https://user-images.githubusercontent.com/118689173/221942421-75c5998c-470e-4c18-a850-b66a66e60584.png)
