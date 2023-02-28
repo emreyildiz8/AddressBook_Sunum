@@ -15,6 +15,7 @@ Projede Adres listesi ve Adres Ekle - Adres Sil ekranları bulunuyor.
 Adres Ekle sayfasındaki işlemleri AJAX ile yapmaktayız. Örneğin; ili seçtiğinde ilçeler sayfa yenilenmeden gelir. İlçeyi seçtiğinde mahalleler sayfa yenilenmeden gelir.
 Mahalleyi seçince o mahallenin posta kodunu APi'den çektik. https://api.ubilisim.com/postakodu/il/34
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
+
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 ![Ekran görüntüsü 2023-02-28 131348](https://user-images.githubusercontent.com/118689173/221942361-db685f4c-0c0d-4fd0-ac74-4ab84d86c9b1.png)
 ![Ekran görüntüsü 2023-02-28 131312](https://user-images.githubusercontent.com/118689173/221942380-9f762144-14b6-450e-a51a-d16c677e92c8.png)
